@@ -90,7 +90,7 @@ Pokeball behaviours include:
 ### Methods
 
 - `fight`
-  - this takes the Pokemon whose turn it is,
+  - this take the Pokemon whose turn it is,
   - attack the defending Pokemon (deducting attacker's attack damage from the defender's hit points)
   - end their turn
   - takes each Pokemon's strengths and weaknesses into account
