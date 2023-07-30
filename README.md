@@ -1,6 +1,6 @@
 # Javascript Object Oriented Programming
 
-In this project I implemented a Pokemon battle game using Object Oriented Programming.
+Pokemon battle game using Object Oriented Programming.
 
 ### Data Structures.
 
